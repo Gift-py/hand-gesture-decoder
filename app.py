@@ -13,6 +13,7 @@ from utils import CvFpsCalc
 from model import KeyPointClassifier
 from model import PointHistoryClassifier
 
+#yen yen yen
 
 def get_args():
 	parser = argparse.ArgumentParser()
